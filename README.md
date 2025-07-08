@@ -41,3 +41,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 -> This project is about the Music courses using the next js and Aceternity UI 
 -> Implementation of the next components and getting used to know how to implement and get it worked.
+
+-> Cloned from the Chai aur code one of the project
