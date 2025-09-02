@@ -39,7 +39,7 @@ const FeaturedCourses = () => {
             <h1 className="text-2xl font-bold">{course.title}</h1>
             <p className="text-md text-gray-500">{course.description}</p>
 
-            <Link href={course.slug}>
+            <Link href={"/"}>
               <button className="bg-neutral-200 text-black font-semibold cursor-pointer py-2 px-4 rounded-lg mt-5 opacity-[0.8] hover:opacity-[1]">
                 View All Courses
               </button>

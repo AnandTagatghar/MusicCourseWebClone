@@ -18,7 +18,7 @@ const AboutUs = () => {
           <h2>Quick Links</h2>
           <div className="text-gray-600 flex flex-col mt-5">
             <Link href={"/home"}>Home</Link>
-            <Link href={"/about"}>About</Link>
+            <Link href={"/"}>About</Link>
             <Link href={"/courses"}>Courses</Link>
             <Link href={"/contact"}>Contact</Link>
           </div>
